@@ -1,9 +1,0 @@
-﻿  Blockdrop.cpp
-  game.cpp
-  main.cpp
-C:\Users\Administrator\source\repos\Tetris\Tetris\main.cpp(65,52): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Administrator\source\repos\Tetris\Tetris\main.cpp(76,54): warning C4305: 'argument': truncation from 'double' to 'float'
-  Generating Code...
-  Tetris.vcxproj -> C:\Users\Administrator\source\repos\Tetris\x64\Debug\Tetris.exe
-  'pwsh.exe' is not recognized as an internal or external command,
-  operable program or batch file.
