@@ -1,0 +1,27 @@
+﻿  block.cpp
+C:\Users\SNY IT Solutions\Downloads\Tetris-game-main\Tetris-game-main\Tetris-game-main\Tetris\Tetris\block.cpp(67,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Blockdrop.cpp
+  Blocks.cpp
+  colors.cpp
+  game.cpp
+C:\Users\SNY IT Solutions\Downloads\Tetris-game-main\Tetris-game-main\Tetris-game-main\Tetris\Tetris\game.cpp(76,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SNY IT Solutions\Downloads\Tetris-game-main\Tetris-game-main\Tetris-game-main\Tetris\Tetris\game.cpp(75,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SNY IT Solutions\Downloads\Tetris-game-main\Tetris-game-main\Tetris-game-main\Tetris\Tetris\game.cpp(74,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SNY IT Solutions\Downloads\Tetris-game-main\Tetris-game-main\Tetris-game-main\Tetris\Tetris\game.cpp(73,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SNY IT Solutions\Downloads\Tetris-game-main\Tetris-game-main\Tetris-game-main\Tetris\Tetris\game.cpp(85,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SNY IT Solutions\Downloads\Tetris-game-main\Tetris-game-main\Tetris-game-main\Tetris\Tetris\game.cpp(84,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SNY IT Solutions\Downloads\Tetris-game-main\Tetris-game-main\Tetris-game-main\Tetris\Tetris\game.cpp(83,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SNY IT Solutions\Downloads\Tetris-game-main\Tetris-game-main\Tetris-game-main\Tetris\Tetris\game.cpp(82,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  grid.cpp
+  main.cpp
+C:\Users\SNY IT Solutions\Downloads\Tetris-game-main\Tetris-game-main\Tetris-game-main\Tetris\Tetris\main.cpp(50,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\SNY IT Solutions\Downloads\Tetris-game-main\Tetris-game-main\Tetris-game-main\Tetris\Tetris\main.cpp(52,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\SNY IT Solutions\Downloads\Tetris-game-main\Tetris-game-main\Tetris-game-main\Tetris\Tetris\main.cpp(203,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\SNY IT Solutions\Downloads\Tetris-game-main\Tetris-game-main\Tetris-game-main\Tetris\Tetris\main.cpp(295,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\SNY IT Solutions\Downloads\Tetris-game-main\Tetris-game-main\Tetris-game-main\Tetris\Tetris\main.cpp(319,58): warning C4305: 'argument': truncation from 'double' to 'float'
+  position.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Tetris.vcxproj -> C:\Users\SNY IT Solutions\Downloads\Tetris-game-main\Tetris-game-main\Tetris-game-main\Tetris\x64\Debug\Tetris.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
