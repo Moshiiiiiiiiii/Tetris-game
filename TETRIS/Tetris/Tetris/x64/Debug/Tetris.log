@@ -1,0 +1,12 @@
+﻿  game.cpp
+C:\Users\salon\Downloads\Tetris-game-main (1)\Tetris-game-main\TETRIS\Tetris\Tetris\game.cpp(73,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salon\Downloads\Tetris-game-main (1)\Tetris-game-main\TETRIS\Tetris\Tetris\game.cpp(72,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salon\Downloads\Tetris-game-main (1)\Tetris-game-main\TETRIS\Tetris\Tetris\game.cpp(71,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salon\Downloads\Tetris-game-main (1)\Tetris-game-main\TETRIS\Tetris\Tetris\game.cpp(70,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salon\Downloads\Tetris-game-main (1)\Tetris-game-main\TETRIS\Tetris\Tetris\game.cpp(82,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salon\Downloads\Tetris-game-main (1)\Tetris-game-main\TETRIS\Tetris\Tetris\game.cpp(81,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salon\Downloads\Tetris-game-main (1)\Tetris-game-main\TETRIS\Tetris\Tetris\game.cpp(80,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salon\Downloads\Tetris-game-main (1)\Tetris-game-main\TETRIS\Tetris\Tetris\game.cpp(79,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Tetris.vcxproj -> C:\Users\salon\Downloads\Tetris-game-main (1)\Tetris-game-main\TETRIS\Tetris\x64\Debug\Tetris.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
