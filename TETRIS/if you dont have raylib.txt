@@ -1,0 +1,13 @@
+Note : if you have raylib you can proceed to the code
+download link : https://github.com/microsoft/vcpkg
+HOW TO INSTALL RAYLIB 
+1. GO TO "VCPKG-MASTER"
+2 OPTIONS
+WINDOWS 11 : RIGH CLICK "GO TO TERMINAL"
+WINDOWS 10 : GO TO POWERSHELL "RUN AS ADMINISTRATOR"
+             TYPE "cd "file location of vcpkg-master"
+3.type "./bootstrap-vcpkg.bat"
+4.type "./ vcpkg integrate install"
+5.type "./install raylib :x64 windows"
+
+Now you can use my code now :)
